@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "879213250093",
+    "project_id": "mynotes-flutter-project-54d22",
+    "storage_bucket": "mynotes-flutter-project-54d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879213250093:android:6280e219b0c697048fdaa4",
+        "android_client_info": {
+          "package_name": "com.domainName.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879213250093-rlo12vj0s8shd0bn8ommq65l3hsj7s28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGx3udotsMjXhv9e5ILJtyzOuxS55z1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879213250093-rlo12vj0s8shd0bn8ommq65l3hsj7s28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879213250093-g27sckbec605kh5a9gt66updv93a728g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.domainName.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
